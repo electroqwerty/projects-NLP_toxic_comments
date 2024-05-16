@@ -22,7 +22,7 @@ The aim of this project was to classify almost 160,000 comments into six labels 
 
 ### Exploratory Data Analysis (EDA)
 
-#### [EDA_Toxic_Comment_Classification Notebook](https://github.com/projects-NLP_toxic_comments/EDA_Toxic_Comment_Classification.ipynb)
+#### [EDA_Toxic_Comment_Classification Notebook](EDA_Toxic_Comment_Classification.ipynb)
 
 - **Data Insights**:
     
@@ -41,7 +41,7 @@ The aim of this project was to classify almost 160,000 comments into six labels 
 
 ### Model Development and Evaluation
 
-#### [Training_and_eval Notebook](https://github.com/electroqwerty/projects-NLP_toxic_commentstraining_and_eval.ipynb)
+#### [Training_and_eval Notebook](training_and_eval.ipynb)
 
 - **Model Implementation**:
     
